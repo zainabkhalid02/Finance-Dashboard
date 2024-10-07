@@ -4,7 +4,7 @@
 
 <img width="700" alt="Finance Dashboard" src="https://github.com/user-attachments/assets/0de62c7e-4c3d-4938-8da7-727c2885889f">
 
-
+<img width="704" alt="Filter Panel" src="https://github.com/user-attachments/assets/7ab51835-0141-4802-8f2b-5bc163ed69e3">
 
 ## Problem Statement
 
