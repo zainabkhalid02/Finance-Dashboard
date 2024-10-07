@@ -106,3 +106,7 @@ A majority of the savings are held in Liquid Cash, followed by contributions to 
     Savings = $610,900.00
 
 There is an increase in both income and savings in 2022 compared to 2021. The savings distribution remains heavily weighted toward Liquid Cash, but other components like Mutual Funds and Emergency Fund show steady growth.
+
+# Conlusion
+
+This dashboard serves as an efficient tool for monitoring financial health, identifying overspending habits, and maximizing savings. By visualizing year-over-year financial trends, users can make data-driven decisions to ensure long-term financial stability. The project demonstrates the power of data visualization in providing actionable insights for personal or organizational finance management.
