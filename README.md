@@ -1,6 +1,8 @@
-# Airlines-Dashboard
+# Finance-Dashboard
 
-### Dashboard Link : https://app.powerbi.com/groups/me/reports/384d017e-e935-44dc-9e7d-1626c1a36de1/ReportSection
+### Dashboard Link : [https://app.powerbi.com/groups/me/reports/384d017e-e935-44dc-9e7d-1626c1a36de1/ReportSection](https://app.powerbi.com/view?r=eyJrIjoiNGZkNjdkMGMtMDY1OC00NTQ1LWE5ZDMtMDMzMzQxMDQ0MzRhIiwidCI6ImZlZTNiOTE2LTAxYzEtNDk4Ny1hNjQ2LWUxOTM0MzJiOWVhYSIsImMiOjl9)
+
+<img width="700" alt="Finance Dashboard" src="https://github.com/user-attachments/assets/0de62c7e-4c3d-4938-8da7-727c2885889f">
 
 
 
